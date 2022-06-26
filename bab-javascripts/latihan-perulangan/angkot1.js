@@ -1,5 +1,6 @@
 
+let jmlAngkot = 10;
 
-for (i=1; i<=10; i++){
+for (i=1; i<=jmlAngkot; i++){
     console.log('angkot ke- '+ i + ' Berjalan dengan baik ')
 }
