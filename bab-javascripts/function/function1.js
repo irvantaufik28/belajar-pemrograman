@@ -1,9 +1,9 @@
-// function Declaration
+// // function Declaration
 
-function penambahan (a,b){
-    return a+b
-}
-console.log(penambahan(5,5));
+// function penambahan (a,b){
+//     return a+b
+// }
+// console.log(penambahan(5,5));
 
 
 
