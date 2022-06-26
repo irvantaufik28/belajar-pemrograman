@@ -1,5 +1,5 @@
 let jmlAgkot = 10;
-let angkotBeroprasi=6;
+let angkotBeroprasi=10;
 
 for (let i=1; i<=jmlAgkot; i++){
     if ( i <= angkotBeroprasi){
