@@ -60,6 +60,10 @@ class warga {
         this.cash +=uang;
         console.log(`hore ${this.nama}, gajian hemat uangnya ya`)
     }
+    thr (gaji){
+        this.cash +=gaji*2;
+        console.log (`hore ${this.nama} dapat thr`)
+    }
 }
 
 let irvan= new warga('irvan',5000000);
